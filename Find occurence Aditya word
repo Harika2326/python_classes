@@ -1,0 +1,2 @@
+str='Aditya educational institutions,aditya groups'
+print(str.count('Aditya'))
